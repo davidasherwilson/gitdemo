@@ -1,4 +1,5 @@
 //nolo froyo
+//second comment
 
 window.onload = function() {
     var myArray = [];
