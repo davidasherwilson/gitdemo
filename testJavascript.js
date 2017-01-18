@@ -1,4 +1,4 @@
-//yolo brolo
+//nolo froyo
 
 window.onload = function() {
     var myArray = [];
