@@ -1,3 +1,5 @@
+//yolo brolo
+
 window.onload = function() {
     var myArray = [];
     var getButton = document.getElementById("btn");
